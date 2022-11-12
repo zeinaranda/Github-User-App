@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestGitHub2</string>
+
+    <string name="name">Nama User</string>
+    <string name="repository">Repository</string>
+    <string name="company">Company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="profileimage">Profile Image</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Cari Username atau Nama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dark_mode">Dark Mode</string></resources>
